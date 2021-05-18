@@ -1,12 +1,12 @@
 img {
     display: block;
-    max-width: 60%;
+    max-width: 50%;
     height: auto;
   }
 .carousel-contain{
     display: flex;
     flex-direction: row;
-    max-width: 50%;
+    width: 50%;
     height: auto;
 }
 .first-block{
